@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* ... https://www.12devs.co.uk/articles/writing-a-web-application-with-ruby-on-rails/
